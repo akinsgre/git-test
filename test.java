@@ -4,5 +4,6 @@ public class test {
     } 
     
     public class InnerHello {
+    	System.println("Hello from InnerHello");
     }
 }
